@@ -1,5 +1,6 @@
 # TASK: The Most Hottest EU Countries With a Coastline
-Objectives
+
+## Procedure
 
 1. Join the 2: Cities and Countries along Country
 2. Hide insignificant columns such as 'fugitives', esp for this task on the Data Source Tab at the bottom
@@ -10,4 +11,5 @@ Objectives
 7. Added the 'Country' and 'Temperature' name-labels under the Marks
 8. Created a Dashboard of the Viz, named it and published it
 
-Link to Dashboard: https://public.tableau.com/app/profile/brian.waweru/viz/TheMostHottestEUCountriesWithaCoastline/Dashboard1?publish=yes
+## Link to Dashboard: 
+### https://public.tableau.com/app/profile/brian.waweru/viz/TheMostHottestEUCountriesWithaCoastline/Dashboard1?publish=yes
