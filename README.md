@@ -1,7 +1,4 @@
-# -Submitted-Connecting-to-Data-with-Tableau---Lab
-
-
-TASK: The Most Hottest EU Countries With a Coastline
+# TASK: The Most Hottest EU Countries With a Coastline
 Objectives
 
 1. Join the 2: Cities and Countries along Country
